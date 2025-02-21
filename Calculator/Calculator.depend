@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740082599 source:c:\comprogram\;ko\งานคอม\lab21\calculator\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+
